@@ -3,7 +3,7 @@ Glosario	|
 _ _ _ _ _ _	|
 
 
-palabras
+# palabras
 
 	busy		-	ocupado
 	checkout	-	comprobación/pasar por caja
@@ -77,14 +77,14 @@ palabras
 	statements	-	declaraciones
 	easiest		-	más fácil
 	both		-	ambos/ambas
+	surround 	-	rodear/encerrar
 	Labels		-	etiqueta
 	budget		-	presupuesto
 
 
-
-frases
-
-
+# frases
+	
+	that has been				-		eso ha sido
 	did you notice				-		Te diste cuenta
 	the upstream branch			-		la rama anterior de la cadena
 	does not match				-		no coincide con
