@@ -80,6 +80,9 @@ _ _ _ _ _ _	|
 	surround 	-	rodear/encerrar
 	Labels		-	etiqueta
 	budget		-	presupuesto
+	reassigning -	reasignando
+	rearrange	-	reorganizar
+
 
 
 # frases
@@ -148,13 +151,13 @@ _ _ _ _ _ _	|
 
 
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 							
-SQL	|
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 							
+# SQL	|
 _ _ |
 
 
-#4 Data Analysis
-
+**4 Data Analysis
+**
 
 
 
@@ -1141,7 +1144,7 @@ _ _ |
 
 		- RUN		//int result = (number*perc)/100;	
 
-		LESSON TAKEAWAYS
+ 		LESSON TAKEAWAYS
 
 		The % remainder operator (also called the modulo)
 		Let's find out how many of 100 items will be left
