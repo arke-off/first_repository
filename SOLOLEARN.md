@@ -84,7 +84,6 @@ _ _ _ _ _ _	|
 	rearrange	-	reorganizar
 
 
-
 # frases
 	
 	that has been				-		eso ha sido
@@ -151,19 +150,12 @@ _ _ _ _ _ _	|
 
 
 
- _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 							
- SQL|
-_ _ |
-
-
-**4 Data Analysis
-**
+							
+# SQL|
 
 
 
-
-
-	Making Sense of Data
+## Making Sense of Data
 
 		-	1. Question		2. Collect		3. Clean		4. Insights		5. Communicate 
 
@@ -246,15 +238,14 @@ _ _ |
 
 
 
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 							
-C	|
-_ _ |
+							
+# C	|
 
 
-#1 Basic Concepts
+## 1 Basic Concepts
 
 
-	Output Formatting|
+## Output Formatting|
 
 		- // printf ("%d", 253);
 	
@@ -287,7 +278,7 @@ _ _ |
 		You can combine multiple format specifiers in a single printf() statement. Remember to provide the corresponding values for each specifier, separated by commas.
 
 
-	Variables|
+## Variables|
 
 		- next
 
@@ -331,7 +322,7 @@ _ _ |
 		We used the %d format specifier, as score is an integer, and passed score to the printf function as the value to be inserted.
 
 
-	Data Types|
+## Data Types|
 
 		- next
 
@@ -446,10 +437,10 @@ _ _ |
 		Click to run
 
 
-#2 Conditionals and Loops
+## 2 Conditionals and Loops
 
 
-#3 Arrays & strings
+## 3 Arrays & strings
 
 
 	Arrays
@@ -595,10 +586,10 @@ _ _ |
 		The first loop iterates over the rows, the second one over their items.
 
 
-	Strings
+## Strings
 
 
-	Taking String Input (complete)
+## Taking String Input
 
 		- next
 
@@ -676,7 +667,7 @@ _ _ |
 		-|char|, |fgets|, |stdin|
 
 
-#4 Dunctions & Pointers
+## 4 Dunctions & Pointers
 
 
 	Functions
@@ -785,10 +776,10 @@ _ _ |
 		That is the purpose of functions, to declare them once, and use multiple times in our program.
 
 
-	Function Parameters
+## Function Parameters
 
 
-	Returning From Functions
+## Returning From Functions
 
 		- next
 
@@ -914,7 +905,7 @@ _ _ |
 		}
 
 
-	Pointers
+## 5 Pointers
 	
 		- next
 
@@ -998,7 +989,7 @@ _ _ |
 		Note, that we used %d as the format specifier, as we are outputting the integer value, stored at the address p.
 
 
-	Using Pointers
+## 6 Using Pointers
 
 
 		- next
@@ -1118,10 +1109,10 @@ _ _ |
 	Module Quiz
 
 
-#example
+# example lenguaje
 
 
-	Example(Remplace name to name lesson)
+## Example(lesson)
 
 
 		- next
