@@ -1,7 +1,7 @@
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   
 Glosario	|
 _ _ _ _ _ _	|
-
+ 
 
 # palabras
 
@@ -82,6 +82,15 @@ _ _ _ _ _ _	|
 	budget		-	presupuesto
 	reassigning -	reasignando
 	rearrange	-	reorganizar
+	research	-	investigación
+	kind		-	amable
+	toggle		-	alternar/palanca
+	refuse		-	rechazar
+	mistakes	-	errores
+	even		-	incluso
+	tiniest		-	más pequeño
+	misplace	-	perder
+	typo		-	error de tipografía
 
 
 # frases
@@ -151,7 +160,7 @@ _ _ _ _ _ _	|
 
 
 							
-# SQL|
+# SQL
 
 
 
@@ -239,7 +248,7 @@ _ _ _ _ _ _	|
 
 
 							
-# C	|
+# C	
 
 
 ## 1 Basic Concepts
@@ -1109,27 +1118,37 @@ _ _ _ _ _ _	|
 	Module Quiz
 
 
-# example lenguaje
+# Phyton
 
-
-## Example(lesson)
-
+## Debugging
 
 		- next
 
 		- next
 
-		- ||
+		- |parentheses are missing|
 
-		- 
+		- |An equal sign should be used to ...|
 
-		- 
+		- |movie|, |=|, |"Avatar"|
 
-		- 
+		- |surname|
 
-		- 
+		- next
 
-		- 
+		- |2nd and 3rd lines|
+
+		- |2nd line|
+
+		- |Line 2 contains the first error|
+
+		- |3rd|
+		
+		- |An error because the balance variable ...|
+
+		- |the variable is being called before ...|
+
+		- |=|, |print|
 
 		Practice
 
@@ -1137,13 +1156,44 @@ _ _ _ _ _ _	|
 
  		LESSON TAKEAWAYS
 
-		The % remainder operator (also called the modulo)
-		Let's find out how many of 100 items will be left
+		You did it! You learned that:
+
+		Errors in code are known as bugs
+		Code is executed line by line from top to bottom
+		Code execution is interrupted by bugs
+		In the next lesson, you'll start applying the standards and best 		practices that professional coders use.
 
 		NOTES
-		int x = 8;
-		int y = 4;
-		printf("%d", x+y);
+		Coding consists of 3 steps:
 
-		The % remainder operator (also called the modulo)
-		Let's find out how many of 100 items will be left
+		- Writing
+		- Executing (or running)
+		- Fixing errors (or debugging)
+		
+		In this lesson, you’ll start step 3: identifying and fixing errors.
+		-
+		Machines will refuse to follow instructions from a human if they contain mistakes.
+		The code below contains an error. Python will return an error message. "Run" the code to get the error message.
+
+		message = "Debugging
+		print(message)
+
+		Fix the error by adding the missing closing quotation mark, then hit "Run" again.
+		-
+		Even experienced programmers get coding errors (or bugs) all the time. So if you’re making mistakes, it’s ok! You’re on the right track.
+		The line of code below contains a bug, can you identify it?
+
+		print 5 + 3
+		-
+		Even the tiniest typo or a misplaced tab in your code will result in an error.
+		The line of code below is meant to create a new variable but something is wrong
+
+		color -> "red" |An equial sign should be used
+		-
+		Bugs are an expected part of writing code. The trick to being a good coder is staying cool when dealing with bugs.
+		A piece of code can contain multiple bugs. Can you fix the code to display the string?
+
+		print"Great Progress) |print ("Great Progress")|
+		-
+		The computer reads and executes instructions line by line, from top to bottom. The execution of the program will be interrupted at the first error encountered.
+		
