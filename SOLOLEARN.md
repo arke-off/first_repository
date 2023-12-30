@@ -91,6 +91,9 @@ _ _ _ _ _ _	|
 	tiniest		-	más pequeño
 	misplace	-	perder
 	typo		-	error de tipografía
+	tech		-	tecnológica/técnica
+
+
 
 
 # frases
